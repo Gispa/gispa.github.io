@@ -28,13 +28,13 @@ url: "https://gispa.github.io"
 github:
   username: gispa # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Gispa
+  name: Gispa Walstab
   email: gwalstab@hotmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

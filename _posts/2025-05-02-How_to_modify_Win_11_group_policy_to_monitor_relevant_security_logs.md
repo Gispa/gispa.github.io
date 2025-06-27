@@ -6,7 +6,6 @@ categories: [How-To, Windows 11 Monitoring/Logs]
 tags: [how to, monitoring, logging, windows, windows 11, group policy, security]
 author: gispa
 media_subpath: /assets/img/posts/2025-05-02-How_to_modify_win_11_group_policy_to_monitor_relevant_security_logs/
-
 ---
 
 I was doing some self-lead study outside of my course and messing around with my SOC homelab when I realised that Windows default Group Policy settings do not log events for a lot of behaviours that I wanted to monitor. This blog will guide you through modifying Group Policy settings on a freshly installed Windows 11 VM so that you can monitor and detect events that are often triggered by threat actors in a Windows environment.
